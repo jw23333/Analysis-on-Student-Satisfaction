@@ -1,1 +1,2 @@
 # Analysis-on-Student-Satisfaction
+This project applies advanced data science techniques to analyze student satisfaction metrics. Using Python data processing libraries, I implemented methods such as linear regression, K-Means clustering, hypothesis testing, and data visualization to uncover insights. The included report details the analytical approaches, explored topics, and key findings, offering a comprehensive overview of trends and influencing factors in student satisfaction.
